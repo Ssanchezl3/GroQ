@@ -3,7 +3,7 @@ from modules import tokenizer, embeddings, groq_inference, metrics
 
 st.set_page_config(page_title="LLM Lab", layout="wide")
 
-st.title("🧠 LLM Interactive Lab")
+st.title("LLM Interactive Lab")
 
 st.sidebar.title("Navegación")
 
